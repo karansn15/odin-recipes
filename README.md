@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project as part of The Odin Project Curriculum. Upon completion of this project, so far in this course I have learned to setup the HTML boilerplate. I was able to use different text elements such as paragraphs, bold text, italicized text, etc. I was able to add links and images to my website. I was also able to use the terminal and use git to easily push my work to github.
